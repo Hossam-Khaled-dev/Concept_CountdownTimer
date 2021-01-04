@@ -42,4 +42,4 @@ def coutdown(n):
 Desktop Application Using 
 - Tkinter
 - Pyinstaller : For  EXE File
-- NSIS        : To Execute a Setup file (```installable```) 
+- NSIS        : To Execute a Setup file (```installable```)  Link: https://drive.google.com/drive/folders/1a001WXDec_ZkT_XcQ2NO78sgV35bg3aj?usp=sharing
