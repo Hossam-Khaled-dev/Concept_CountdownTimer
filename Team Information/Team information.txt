@@ -1,4 +1,6 @@
-1-Idea Title:Countdown Clock and Timer (Using gui and functional programming )
+
+
+# Idea Title:Countdown Clock and Timer (Using gui and functional programming )
 ______________________________________________________________________________
 
 
