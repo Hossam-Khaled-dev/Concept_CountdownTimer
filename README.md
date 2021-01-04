@@ -38,3 +38,8 @@ def coutdown(n):
        coutdown(n-1) 
 ```
 
+# DEPLOYMENT
+Desktop Application Using 
+- Tkinter
+- Pyinstaller : For  EXE File
+- NSIS        : To Execute a Setup file (```installable```) 
